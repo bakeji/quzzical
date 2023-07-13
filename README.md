@@ -26,3 +26,6 @@ This is a quiz application built with React. It fetches a set of quiz questions 
 - The correct answer will be highlighted in green, and your selected answer will be highlighted in blue.
 - The score will be displayed at the bottom of the page.
 - To play again, click on the "Play Again" button.
+
+## live site
+- https://quzzicall.netlify.app/

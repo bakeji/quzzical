@@ -1,5 +1,4 @@
 import React from "react";
-import QuizPage from "./quizPage";
 import { Link } from "react-router-dom";
 export default function landingPage(){
     return(
